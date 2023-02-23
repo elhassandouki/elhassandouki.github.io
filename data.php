@@ -1,4 +1,4 @@
- {
+<?php {
       'questionText': 'What\'s your favourite color?',
       'answers': [
         {'text': 'Black', 'score': 10},
@@ -25,3 +25,4 @@
         {'text': 'Hassan', 'score': 40},
       ]
     },
+?>
