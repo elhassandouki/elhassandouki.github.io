@@ -1,1 +1,232 @@
-{"response_code":0,"results":[{"category":"History","type":"multiple","difficulty":"easy","question":"?مرحبا كيف حاللك هل انت بخير","correct_answer":"بخير","incorrect_answers":["لا ان لست بخير","اظن دلك","عفوا"]},{"category":"Science & Nature","type":"multiple","difficulty":"hard","question":"How many legs is it biologically impossible for a centipede to have?","correct_answer":"100","incorrect_answers":["26","50","74"]},{"category":"History","type":"multiple","difficulty":"easy","question":"Which of the following African countries was most successful in resisting colonization?","correct_answer":"Ethiopia","incorrect_answers":["C&ocirc;te d&rsquo;Ivoire","Congo","Namibia"]},{"category":"General Knowledge","type":"multiple","difficulty":"hard","question":"Which of the following is an existing family in &quot;The Sims&quot;?","correct_answer":"The Goth Family","incorrect_answers":["The Family","The Simoleon Family","The Proud Family"]},{"category":"Animals","type":"multiple","difficulty":"easy","question":"What do you call a baby bat?","correct_answer":"Pup","incorrect_answers":["Cub","Chick","Kid"]},{"category":"Politics","type":"boolean","difficulty":"easy","question":"The 2016 United States Presidential Election is the first time Hillary Clinton has run for President.","correct_answer":"False","incorrect_answers":["True"]},{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?","correct_answer":"Policenauts","incorrect_answers":["Gradius","Contra","Castlevania: Symphony of the Night"]},{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?","correct_answer":"Link","incorrect_answers":["Wario","Q*bert","Solid Snake"]},{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?","correct_answer":"Jimmy Cooper","incorrect_answers":["Pete Townshend","Franc Roddam","Archie Bunker"]},{"category":"Animals","type":"boolean","difficulty":"easy","question":"Rabbits are rodents.","correct_answer":"False","incorrect_answers":["True"]},{"category":"Geography","type":"boolean","difficulty":"medium","question":"The Sonoran Desert is located in eastern Africa.","correct_answer":"False","incorrect_answers":["True"]},{"category":"History","type":"multiple","difficulty":"medium","question":"Which WWII tank ace is credited with having destroyed the most tanks?","correct_answer":"Kurt Knispel","incorrect_answers":["Michael Wittmann","Walter Kniep","Otto Carius"]},{"category":"Entertainment: Books","type":"multiple","difficulty":"easy","question":"What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?","correct_answer":"Fluffy","incorrect_answers":["Spike","Poofy","Spot"]},{"category":"Entertainment: Video Games","type":"boolean","difficulty":"medium","question":"In the video game &quot;Transistor&quot;, &quot;Red&quot; is the name of the main character.","correct_answer":"True","incorrect_answers":["False"]},{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"easy","question":"The characters of &quot;Log Horizon&quot; are trapped in what game?","correct_answer":"Elder Tale","incorrect_answers":["Sword Art Online","Tower Unite","Yggdrasil"]},{"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?","correct_answer":"Thinking Machines CM-5","incorrect_answers":["Cray X-MP","Cray XK7","IBM Blue Gene/Q"]},{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which star actor was in &quot;Top Gun&quot;, &quot;Jerry Maguire&quot; and &quot;Born on the Fourth of July&quot;?","correct_answer":"Tom Cruise","incorrect_answers":["Kelly McGillis","John Travolta","George Clooney"]},{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"What is the name of the talking cat in Persona 5?","correct_answer":"Morgana","incorrect_answers":["Teddie","Marie","Ryuji"]},{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?","correct_answer":"Paul McCartney","incorrect_answers":["Ringo Starr","John Lennon","George Harrison"]},{"category":"Science & Nature","type":"multiple","difficulty":"easy","question":"Who discovered the Law of Gravity?","correct_answer":"Sir Isaac Newton","incorrect_answers":["Galileo Galilei","Charles Darwin","Albert Einstein"]}]}
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "كم من مرة ذكر شهر رمضان المبارك في القرآن الكريم ؟",
+      "correct_answer": "مرة واحدة",
+      "incorrect_answers": [
+        "مرتين",
+        "ثلاث مرة"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "متى فرض الصيام في شهر رمضان ؟",
+      "correct_answer": " السنة الثانية من الهجرة",
+      "incorrect_answers": [
+        " السنة الاولة من الهجرة",
+        " السنة الثالث من الهجرة",
+        " السنة الرابعة من الهجرة"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "في أي سورة تم ذكر شهر رمضان في القرآن الكريم ؟",
+      "correct_answer": "سورة البقرة",
+      "incorrect_answers": [
+        "سورة العلق",
+        "سورة الحج ",
+        "سورة النور"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "في أي سنة من الهجرة فرض الصيام ؟",
+      "correct_answer": "السنة الثانية للهجرة",
+      "incorrect_answers": [
+        "السنة الرابعة للهجرة",
+        "السنة الاولة للهجرة",
+        "السنة الثالث للهجرة"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "ما هو العيد الذي يأتي بعد رمضان ؟",
+      "correct_answer": "عيد الفطر",
+      "incorrect_answers": [
+        "عيد الاضحى"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "ما هو الشهر السابق لشهر رمضان الكريم ؟",
+      "correct_answer": "شهر شعبان",
+      "incorrect_answers": [
+        "شهر شوال"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "ما هي الغزوات التي قام بها المسلمون في شهر رمضان ؟",
+      "correct_answer": "غزوة بدر وفتح مكة",
+      "incorrect_answers": [
+        "غزوة بدر والسويق",
+        "غزوة بدر وصلح الحديبية"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "ما اسم الليلة المباركة التي تم ذكرها في القرآن الكريم، والتي هي من ليالي شهر رمضان الكريم؟",
+      "correct_answer": "ليلة القدر",
+      "incorrect_answers": [
+        "ليلة الاسراء والمعراج",
+        "ليلة النصف من رمضان "
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+      "correct_answer": "Jimmy Cooper",
+      "incorrect_answers": [
+        "Pete Townshend",
+        "Franc Roddam",
+        "Archie Bunker"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Rabbits are rodents.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Sonoran Desert is located in eastern Africa.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which WWII tank ace is credited with having destroyed the most tanks?",
+      "correct_answer": "Kurt Knispel",
+      "incorrect_answers": [
+        "Michael Wittmann",
+        "Walter Kniep",
+        "Otto Carius"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+      "correct_answer": "Fluffy",
+      "incorrect_answers": [
+        "Spike",
+        "Poofy",
+        "Spot"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In the video game &quot;Transistor&quot;, &quot;Red&quot; is the name of the main character.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The characters of &quot;Log Horizon&quot; are trapped in what game?",
+      "correct_answer": "Elder Tale",
+      "incorrect_answers": [
+        "Sword Art Online",
+        "Tower Unite",
+        "Yggdrasil"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+      "correct_answer": "Thinking Machines CM-5",
+      "incorrect_answers": [
+        "Cray X-MP",
+        "Cray XK7",
+        "IBM Blue Gene/Q"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which star actor was in &quot;Top Gun&quot;, &quot;Jerry Maguire&quot; and &quot;Born on the Fourth of July&quot;?",
+      "correct_answer": "Tom Cruise",
+      "incorrect_answers": [
+        "Kelly McGillis",
+        "John Travolta",
+        "George Clooney"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the talking cat in Persona 5?",
+      "correct_answer": "Morgana",
+      "incorrect_answers": [
+        "Teddie",
+        "Marie",
+        "Ryuji"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
+      "correct_answer": "Paul McCartney",
+      "incorrect_answers": [
+        "Ringo Starr",
+        "John Lennon",
+        "George Harrison"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who discovered the Law of Gravity?",
+      "correct_answer": "Sir Isaac Newton",
+      "incorrect_answers": [
+        "Galileo Galilei",
+        "Charles Darwin",
+        "Albert Einstein"
+      ]
+    }
+  ]
+}
