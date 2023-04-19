@@ -1,30 +1,23 @@
 {
   "response_code": 0,
   "results": [
-  {
-    "question": "What is the capital of France?",
-    "options": ["London", "New York", "Berlin"],
-    "answers": "Paris"
-  },
-  {
-    "question": "What is the currency of Japan?",
-    "options": ["Yuan", "Dollar", "Won"],
-    "answers": "Yen"
-  },
-  {
-    "question": "What is the largest continent by land area?",
-    "options": ["North America", "Asia", "South America", "Africa"],
-    "answers": "Asia"
-  },
-  {
-    "question": "What is the highest mountain in the world?",
-    "options": [ "K2", "Kilimanjaro", "Denali"],
-    "answers": "Everest"
-  },
-  {
-    "question": "What is the largest animal on Earth?",
-    "options": ["Elephant", "Giraffe", "Hippopotamus"],
-    "answers": "Whale"
-  }
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        {"text": "Paris", "isCorrect": true},
+        {"text": "London", "isCorrect": false},
+        {"text": "Berlin", "isCorrect": false},
+        {"text": "Madrid", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Who is the current President of the United States?",
+      "answers": [
+        {"text": "Joe Biden", "isCorrect": true},
+        {"text": "Donald Trump", "isCorrect": false},
+        {"text": "Barack Obama", "isCorrect": false},
+        {"text": "George Bush", "isCorrect": false}
+      ]
+    }
 ]  
 }
