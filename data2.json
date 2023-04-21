@@ -1,23 +1,36 @@
 {
-  "response_code": 0,
-  "results": [
-    {
-      "question": "What is the capital of France?",
-      "answers": [
-        {"text": "Paris", "isCorrect": true},
-        {"text": "London", "isCorrect": false},
-        {"text": "Berlin", "isCorrect": false},
-        {"text": "Madrid", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "Who is the current President of the United States?",
-      "answers": [
-        {"text": "Joe Biden", "isCorrect": true},
-        {"text": "Donald Trump", "isCorrect": false},
-        {"text": "Barack Obama", "isCorrect": false},
-        {"text": "George Bush", "isCorrect": false}
-      ]
-    }
-]  
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "London",
+          "Paris",
+          "Berlin",
+          "Madrid"
+        ],
+        "answer_indices": [1]
+      },
+      {
+        "question": "What is the largest country in the world?",
+        "options": [
+          "Russia",
+          "Canada",
+          "China",
+          "United States"
+        ],
+        "answer_indices": 
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": [
+          "Yuan",
+          "Euro",
+          "Dollar",
+          "Yen"
+        ],
+        "answer_indices": [2]
+      }
+    ]
+  }
 }
