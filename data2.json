@@ -1,36 +1,29 @@
-{
-  "quiz": {
-    "questions": [
-      {
-        "question": "What is the capital of France?",
-        "options": [
-          "London",
-          "Paris",
-          "Berlin",
-          "Madrid"
-        ],
-        "answer_indices": [1]
-      },
-      {
-        "question": "What is the largest country in the world?",
-        "options": [
-          "Russia",
-          "Canada",
-          "China",
-          "United States"
-        ],
-        "answer_indices": 
-      },
-      {
-        "question": "What is the currency of Japan?",
-        "options": [
-          "Yuan",
-          "Euro",
-          "Dollar",
-          "Yen"
-        ],
-        "answer_indices": [2]
-      }
+[
+  {
+    "text": "What is the capital of France?",
+    "answers": [
+      {"text": "New York", "score": 0},
+      {"text": "Paris", "score": 1},
+      {"text": "London", "score": 0},
+      {"text": "Berlin", "score": 0}
+    ]
+  },
+  {
+    "text": "What is the largest planet in our solar system?",
+    "answers": [
+      {"text": "Jupiter", "score": 1},
+      {"text": "Saturn", "score": 0},
+      {"text": "Neptune", "score": 0},
+      {"text": "Uranus", "score": 0}
+    ]
+  },
+  {
+    "text": "What is the smallest country in the world?",
+    "answers": [
+      {"text": "Monaco", "score": 0},
+      {"text": "Vatican City", "score": 1},
+      {"text": "San Marino", "score": 0},
+      {"text": "Liechtenstein", "score": 0}
     ]
   }
-}
+]
