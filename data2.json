@@ -7,4 +7,22 @@
     "Italy"
   ],
   "correct_choices": [1, 3]
+},{
+  "question": "Which of these countries are in Europe?",
+  "choices": [
+    "Japan",
+    "France",
+    "Mexico",
+    "Italy"
+  ],
+  "correct_choices": [1, 3]
+},{
+  "question": "Which of these countries are in Europe?",
+  "choices": [
+    "Japan",
+    "France",
+    "Mexico",
+    "Italy"
+  ],
+  "correct_choices": [1, 3]
 }
