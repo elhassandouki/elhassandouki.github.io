@@ -1,18 +1,18 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "title": "Title 1",
     "description": "Description 1",
     "image": "https://elhassandouki.github.io/images/quiz/quiz_10_11.jpg"
   },
   {
-    "id": 1,
+    "id": "1",
     "title": "Title 2",
     "description": "Description 2",
     "image": "https://elhassandouki.github.io/images/quiz/quiz_10_12.jpg"
   },
   {
-    "id": 1,
+    "id": "1",
     "title": "Title 3",
     "description": "Description 3",
     "image": "https://elhassandouki.github.io/images/quiz/quiz_10_13.jpg"
