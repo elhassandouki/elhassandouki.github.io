@@ -331,4 +331,28 @@
     "2"
   ],
   "correct_choices": [1]
+},},{
+  "category": "2",
+  "question": "https://elhassandouki.github.io/images/quiz/quiz_1_2.jpg",
+  "choices": [
+    "1",
+    "2"
+  ],
+  "correct_choices": [2]
+},{
+  "category": "2",
+  "question": "https://elhassandouki.github.io/images/quiz/quiz_1_3.jpg",
+  "choices": [
+    "1",
+    "2"
+  ],
+  "correct_choices": [2]
+},{
+  "category": "2",
+  "question": "https://elhassandouki.github.io/images/quiz/quiz_1_4.jpg",
+  "choices": [
+    "1",
+    "2"
+  ],
+  "correct_choices": [1]
 }
