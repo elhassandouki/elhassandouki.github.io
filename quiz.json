@@ -1,4 +1,4 @@
-{
+[{
   "category": "1",
   "question": "https://elhassandouki.github.io/images/quiz/quiz_1_1.jpg",
   "choices": [
@@ -336,7 +336,7 @@
   "question": "https://elhassandouki.github.io/images/quiz/quiz_2_1.jpg",
   "choices": [
     "1",
-    "2",
+    "2"
   ],
   "correct_choices": [2]
 },{
@@ -3154,7 +3154,7 @@
   "question": "https://elhassandouki.github.io/images/quiz/quiz_10_16.jpg",
   "choices": [
     "1",
-    "2"
+    "2",
     "3"
   ],
   "correct_choices": [1]
@@ -3713,7 +3713,7 @@
   "question": "https://elhassandouki.github.io/images/quiz/quiz_11_38.jpg",
   "choices": [
     "1",
-    "2",
+    "2"
   ],
   "correct_choices": [2]
 },{
@@ -3721,7 +3721,7 @@
   "question": "https://elhassandouki.github.io/images/quiz/quiz_11_39.jpg",
   "choices": [
     "1",
-    "2",
+    "2"
   ],
   "correct_choices": [2]
 },{
@@ -3749,7 +3749,7 @@
   "question": "https://elhassandouki.github.io/images/quiz/quiz_12_2.jpg",
   "choices": [
     "1",
-    "2",
+    "2"
   ],
   "correct_choices": [2]
 },{
@@ -6923,3 +6923,14 @@
   ],
   "correct_choices": [2]
 }
+
+
+
+
+
+
+
+
+
+
+]
